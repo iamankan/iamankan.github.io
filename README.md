@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a PhD Computer Science student at the University of Kentucky. I am also a Research Assistant at the EduceLab under the supervision of Dr. Brent Seales. I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics and Machine Learning. I am interested in application of these techniques to Digital Humanities.
+I am a PhD Computer Science student at the University of Kentucky. I am also a Research Assistant at the [EduceLab](https://educelab.engr.uky.edu/directory) under the supervision of [Dr. Brent Seales](https://educelab.engr.uky.edu/w-brent-seales). I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics and Machine Learning. I am interested in application of these techniques to Digital Humanities.
 
 My Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
+
+[Email](mailto:ankan.bhattacharyya@uky.edu)|[Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)|[LinkedIn](https://www.linkedin.com/in/ankancs94/)
 
 <!--
 **iamankan/iamankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
