@@ -1,6 +1,10 @@
-### Hi there 👋
+## About [![Ankan](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 I am a PhD Computer Science student at the University of Kentucky. I am also a Research Assistant at the [EduceLab](https://educelab.engr.uky.edu/directory) under the supervision of [Dr. Brent Seales](https://educelab.engr.uky.edu/w-brent-seales). I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics and Machine Learning. I am interested in application of these techniques to Digital Humanities. I am excited to discover new contents from damaged antique pieces, which no one have ever been able to see.
+
+_"Life is a system of overdetermined system of equations. You cannot satisfy everyone."
+-Ankan
+_
 
 My Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
