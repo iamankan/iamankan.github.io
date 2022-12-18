@@ -6,11 +6,7 @@ I am a PhD Computer Science student at the University of Kentucky. I am also a R
 >-Ankan
 
 
-My Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
-
-## Contact
-- [Email](mailto:ankan.bhattacharyya@uky.edu)
-- [LinkedIn](https://www.linkedin.com/in/ankancs94/)
+Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
 ## Research
 - [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
@@ -26,6 +22,21 @@ University of Pisa, Italy (Did not avail)
 - First position in Ideathon 2018 Hackathon in Cognizant, as a team, for making voice-powered search engine, "iSearch".
 - The Best Project Award by Cognizant, in 2017. The work was pulished [Here](https://link.springer.com/article/10.1007/s00521-019-04518-w)
 
+
+## Contact
+- [Email](mailto:ankan.bhattacharyya@uky.edu)
+- [LinkedIn](https://www.linkedin.com/in/ankancs94/)
+
+
+<!--## Test
+Display Table in README.md file in Git
+
+
+| FirstName     | LastName      | City   
+| ------------- | ------------- | --------    |
+| `John`        | Test1         | `NewYork`   |
+| `Bob`         | Test2         | `Toronto`   |
+-->
 
 <!--
 **iamankan/iamankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
