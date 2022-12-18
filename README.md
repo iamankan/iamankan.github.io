@@ -14,7 +14,7 @@ My Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
 ## Research
 - [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
-- [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-5399-8703)
+- [ORCID](https://orcid.org/0000-0002-5399-8703)
 - [DBLP](https://dblp.org/pid/220/8851.html)
 
 ## Honors and Awards
