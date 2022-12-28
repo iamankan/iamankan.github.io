@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: Ankan's Hompage
 description: PhD Student in Computer Science @ University of Kentucky
-logo: https://i1.rgstatic.net/ii/profile.image/972974261817344-1608986549030_Q512/Ankan-Bhattacharyya.jpg
-show_downloads: true
+logo: /assets/AB_DP.jpg
