@@ -10,7 +10,7 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
 ### Interests
 
-`Computer Graphics` `Computer Vision` `View interpolation` `Neural Radiance Field (NeRF)` `Photogammetry` `Structure From Motion (SFM)` `Homography` `Image Registration` `Image Recognition` `Deep Learning` `Heritage Science` `Multi View Stereo (MVS)` `Multi View Geometry (MVG)`
+`Computer Graphics`, `Computer Vision`, `View interpolation`, `Neural Radiance Field (NeRF)`, `Photogammetry`, `Structure From Motion (SFM)`, `Homography`, `Image Registration`, `Image Recognition`, `Deep Learning`, `Heritage Science`, `Multi View Stereo (MVS)`, `Multi View Geometry (MVG)`
 
 ## Education
 - `2021-Present` PhD in Computer Science @ University of Kentucky, USA
