@@ -1,5 +1,4 @@
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 title: Ankan's Hompage
 description: PhD Student in Computer Science @ University of Kentucky
 logo: /assets/AB_DP.jpg
-minimal_mistakes_skin: "aqua"
