@@ -8,7 +8,23 @@ I am a PhD Computer Science student at the University of Kentucky. I am also a R
 
 Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
-## Research
+### Interests
+
+`Computer Graphics` `Computer Vision` `View interpolation` `Neural Radiance Field (NeRF)` `Photogammetry` `Structure From Motion (SFM)` `Homography` `Image Registration` `Image Recognition` `Deep Learning` `Heritage Science` `Multi View Stereo (MVS)` `Multi View Geometry (MVG)`
+
+## Education
+- `2021-Present` PhD in Computer Science @ University of Kentucky, USA
+- `2013-2017` B.Tech. in Computer Science and Engineering @ West Bengal University of Technology, India
+
+## Experience
+### Work experience
+- `2017-2021` AWS Developer @ Cognizant Technology Solutions, India
+- `2022-present` Graduate Research Assistant @ University of Kentucky, USA
+
+### Teaching experience
+- `2021-2022` Teaching Assistant for Undergraduate Computer Graphics @ University of Kentucky, USA
+
+## Publications
 - [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-5399-8703)
 - [DBLP](https://dblp.org/pid/220/8851.html)
