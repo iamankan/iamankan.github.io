@@ -40,7 +40,10 @@ University of Pisa, Italy (Did not avail)
 
 
 ## Contact
+<!--
 - [Email](mailto:ankan.bhattacharyya@uky.edu)
+-->
+- Email : `[First name] [dot] [Last name] [dot] 94 [at] gmail [dot] com`
 - [LinkedIn](https://www.linkedin.com/in/ankancs94/)
 
 
