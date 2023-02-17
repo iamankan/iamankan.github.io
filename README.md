@@ -25,7 +25,7 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 - `2021-2022` Teaching Assistant for Undergraduate Computer Graphics @ University of Kentucky, USA
 
 ### Journal Reviews
-Coming soon ...
+- Pervasive and Mobile Computing
 
 ## Publications
 - [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
