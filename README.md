@@ -26,6 +26,7 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
 ### Journal Reviews
 - Pervasive and Mobile Computing
+- ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)
 
 ## Publications
 - [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
