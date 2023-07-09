@@ -1,8 +1,8 @@
 ### About
 
-I am a PhD Computer Science student at the University of Kentucky. I am also a Research Assistant at the [EduceLab](https://educelab.engr.uky.edu/directory) under the supervision of [Dr. Brent Seales](https://educelab.engr.uky.edu/w-brent-seales). I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics and Machine Learning. I am interested in application of these techniques to Digital Humanities. I am excited to discover new contents from damaged antique pieces, which no one have ever been able to see.
+I am a PhD Computer Science student at the University of Kentucky. I am also a Research Assistant at the [EduceLab](https://educelab.engr.uky.edu/directory) under the supervision of [Dr. Brent Seales](https://educelab.engr.uky.edu/w-brent-seales). I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics, and Machine Learning. I am interested in the application of these techniques to Digital Humanities. I am excited to discover new contents from damaged antique artifacts, which no one has ever been able to see.
 
->"Life is a system of overdetermined system of equations. You cannot satisfy everyone."
+>"Life is a system of an overdetermined system of equations. You cannot satisfy everyone."
 >-Ankan
 
 
@@ -10,7 +10,7 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
 ### Interests
 
-`Computer Graphics`, `Computer Vision`, `View interpolation`, `Neural Radiance Field (NeRF)`, `Photogammetry`, `Structure From Motion (SFM)`, `Homography`, `Image Registration`, `Image Recognition`, `Deep Learning`, `Heritage Science`, `Multi View Stereo (MVS)`, `Multi View Geometry (MVG)`
+`Computer Graphics`, `Computer Vision`, `View interpolation`, `Neural Radiance Field (NeRF)`, `Photogrammetry`, `Structure From Motion (SFM)`, `Homography`, `Image Registration`, `Image Recognition`, `Deep Learning`, `Heritage Science`, `Multi View Stereo (MVS)`, `Multi View Geometry (MVG)`
 
 ## Education
 - `2021-Present` PhD in Computer Science @ University of Kentucky, USA
@@ -39,8 +39,8 @@ thermal images”](https://www.nature.com/articles/s41598-021-99998-z), Universi
 -  UniPi Merit Scholarship for Master’s Degree (Laurea Magistrale) in Computer Science A.Y. 2021/2022 awarded by
 University of Pisa, Italy (Did not avail)
 -  Most Valuable Player (MVP) 2019, from Travel & Hospitality, Cognizant for outstanding performance in contributing to the Domain.
-- First position in Ideathon 2018 Hackathon in Cognizant, as a team, for making voice-powered search engine, "iSearch".
-- The Best Project Award by Cognizant, in 2017. The work was pulished [Here](https://link.springer.com/article/10.1007/s00521-019-04518-w)
+- First position in Ideathon 2018 Hackathon in Cognizant, as a team, for making a voice-powered search engine, "iSearch".
+- The Best Project Award by Cognizant, in 2017. The work was published [Here](https://link.springer.com/article/10.1007/s00521-019-04518-w)
 
 
 ## Contact
