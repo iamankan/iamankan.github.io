@@ -10,7 +10,7 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
 ### Interests
 
-`Computer Graphics`, `Computer Vision`, `View interpolation`, `Neural Radiance Field (NeRF)`, `Photogrammetry`, `Structure From Motion (SFM)`, `Homography`, `Image Registration`, `Image Recognition`, `Deep Learning`, `Heritage Science`, `Multi View Stereo (MVS)`, `Multi View Geometry (MVG)`, `CT Scan`, `Film Photography`. `Film Rolls`, `X-Ray Fluorecense (XRF)`
+`Computer Graphics`, `Computer Vision`, `View interpolation`, `Neural Radiance Field (NeRF)`, `Photogrammetry`, `Structure From Motion (SFM)`, `Homography`, `Image Registration`, `Image Recognition`, `Deep Learning`, `Heritage Science`, `Multi View Stereo (MVS)`, `Multi View Geometry (MVG)`, `CT Scan`, `Film Photography`. `Film Rolls`, `X-Ray Fluorecense (XRF)`, `Autodesk Fusion 360`, `3D Printing`
 
 ## Education
 - `2021-Present` PhD in Computer Science @ University of Kentucky, USA
@@ -18,20 +18,20 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
 ## Experience
 ### Work experience
-- `2017-2021` AWS Developer @ Cognizant Technology Solutions, India
-- `2022-2023` Graduate Research Assistant @ University of Kentucky, USA
 - `2023-present` Graduate Research Assistant @ University of Kentucky, USA
+- `2022-2023` Graduate Research Assistant @ University of Kentucky, USA
+- `2017-2021` AWS Developer @ Cognizant Technology Solutions, India
 
 ### Teaching experience
-- `2021-2022` Graduate Teaching Assistant for Computer Graphics (CS335) @ University of Kentucky, USA
 - `2023 Spring` Primary Instructor for Computer Graphics (CS335) @ University of Kentucky, USA
-
+- `2021-2022` Graduate Teaching Assistant for Computer Graphics (CS335) @ University of Kentucky, USA
+  
 ### Journal Reviews
 - Official Reviewer for International Conference on Pattern Recognition, 2024 (ICPR-2024)
-- SN Computer Science
-- Pervasive and Mobile Computing
 - ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)
-- 3rd International Conference on Data, Electronics and Computing (ICDEC-2024) 
+- 3rd International Conference on Data, Electronics and Computing (ICDEC-2024)
+- Pervasive and Mobile Computing
+- SN Computer Science
 
 ## Publications
 - [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
@@ -46,7 +46,6 @@ University of Pisa, Italy (Did not avail)
 -  Most Valuable Player (MVP) 2019, from Travel & Hospitality, Cognizant for outstanding performance in contributing to the Domain.
 - First position in Ideathon 2018 Hackathon in Cognizant, as a team, for making a voice-powered search engine, "iSearch".
 - The Best Project Award by Cognizant, in 2017. The work was published [Here](https://link.springer.com/article/10.1007/s00521-019-04518-w)
-
 
 ## Contact
 - ankan dot bhattacharyya @uky.edu
