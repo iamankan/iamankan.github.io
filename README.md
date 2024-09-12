@@ -26,12 +26,15 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 - `2023 Spring` Primary Instructor for Computer Graphics (CS335) @ University of Kentucky, USA
 - `2021-2022` Graduate Teaching Assistant for Computer Graphics (CS335) @ University of Kentucky, USA
   
-### Journal and Conference Reviews
-- Official Reviewer for International Conference on Pattern Recognition, 2024 (ICPR-2024)
+### Reviewer
+#### Journals
 - ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)
-- 3rd International Conference on Data, Electronics and Computing (ICDEC-2024)
-- Pervasive and Mobile Computing
 - SN Computer Science
+  
+#### Conferences
+- Official Reviewer for International Conference on Pattern Recognition, 2024 (ICPR-2024)
+- 3rd International Conference on Data, Electronics and Computing, 2024 (ICDEC-2024)
+- Pervasive and Mobile Computing
 
 ## Publications
 - [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
