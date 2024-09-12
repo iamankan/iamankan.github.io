@@ -50,7 +50,7 @@ University of Pisa, Italy (Did not avail)
 - ankan dot bhattacharyya @uky.edu
 - [LinkedIn](https://www.linkedin.com/in/ankancs94/)
 
-## :rocket: Updates
+## 🚀 Updates
 -  `July, 2024` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` appeared online
 -  `May, 2024` Passed Qualifying Examination. Became a PhD Candidate
 -  `September, 2023` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` was accepted to `International Conference on Frontiers in Computing and Systems` (COMSYS 2023)
