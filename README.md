@@ -27,9 +27,11 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 - `2023 Spring` Primary Instructor for Computer Graphics (CS335) @ University of Kentucky, USA
 
 ### Journal Reviews
+- Official Reviewer for International Conference on Pattern Recognition, 2024 (ICPR-2024)
+- SN Computer Science
 - Pervasive and Mobile Computing
 - ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)
-- SN Computer Science
+- 3rd International Conference on Data, Electronics and Computing (ICDEC-2024) 
 
 ## Publications
 - [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
@@ -51,32 +53,7 @@ University of Pisa, Italy (Did not avail)
 - [LinkedIn](https://www.linkedin.com/in/ankancs94/)
 
 ## 🚀 Updates
--  `July, 2024` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` appeared online
--  `May, 2024` Passed Qualifying Examination. Became a PhD Candidate
+- `July, 2024` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` appeared [online](https://link.springer.com/chapter/10.1007/978-981-97-2614-1_47)
+- `May, 2024` Passed Qualifying Examination. Became a PhD Candidate
 - `April, 2024` Reached 100 Citations on Google Scholar
-- `September, 2023` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` was accepted to `International Conference on Frontiers in Computing and Systems` (COMSYS 2023) [Video here](assets/MSIScreenRecord.mp4)
-
-<!--## Test
-Display Table in README.md file in Git
-
-
-| FirstName     | LastName      | City   
-| ------------- | ------------- | --------    |
-| `John`        | Test1         | `NewYork`   |
-| `Bob`         | Test2         | `Toronto`   |
--->
-
-<!--
-**iamankan/iamankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `September, 2023` Paper titled [`Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study`](assets/MSIScreenRecord.mp4) was accepted to `International Conference on Frontiers in Computing and Systems` (COMSYS 2023)
