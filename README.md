@@ -53,8 +53,8 @@ University of Pisa, Italy (Did not avail)
 ## 🚀 Updates
 -  `July, 2024` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` appeared online
 -  `May, 2024` Passed Qualifying Examination. Became a PhD Candidate
--  `September, 2023` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` was accepted to `International Conference on Frontiers in Computing and Systems` (COMSYS 2023)
 - `April, 2024` Reached 100 Citations on Google Scholar
+- `September, 2023` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` was accepted to `International Conference on Frontiers in Computing and Systems` (COMSYS 2023) [Video here](assets/MSIScreenRecord.mp4)
 
 <!--## Test
 Display Table in README.md file in Git
