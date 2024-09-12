@@ -1,8 +1,8 @@
 ### About
 
-I am a PhD Computer Science student at the University of Kentucky. I am also a Research Assistant at the [EduceLab](https://educelab.engr.uky.edu/directory) under the supervision of [Dr. Brent Seales](https://educelab.engr.uky.edu/w-brent-seales). I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics, and Machine Learning. I am interested in the application of these techniques to Digital Humanities. I am excited to discover new contents from damaged antique artifacts, which no one has ever been able to see.
+I am a PhD candidate in Computer Science at the University of Kentucky. I am also a Research Assistant at the [EduceLab](https://educelab.engr.uky.edu/directory) under the supervision of [Dr. Brent Seales](https://educelab.engr.uky.edu/w-brent-seales). I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics, and Machine Learning. I am interested in the application of these techniques to Digital Humanities. I am excited to discover new contents from damaged antique artifacts, which no one has ever been able to see. 
 
->"Life is a system of an overdetermined system of equations. You cannot satisfy everyone."
+>"Life is an overdetermined system of equations. You cannot satisfy everyone."
 >-Ankan
 
 
@@ -10,7 +10,7 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
 ### Interests
 
-`Computer Graphics`, `Computer Vision`, `View interpolation`, `Neural Radiance Field (NeRF)`, `Photogrammetry`, `Structure From Motion (SFM)`, `Homography`, `Image Registration`, `Image Recognition`, `Deep Learning`, `Heritage Science`, `Multi View Stereo (MVS)`, `Multi View Geometry (MVG)`
+`Computer Graphics`, `Computer Vision`, `View interpolation`, `Neural Radiance Field (NeRF)`, `Photogrammetry`, `Structure From Motion (SFM)`, `Homography`, `Image Registration`, `Image Recognition`, `Deep Learning`, `Heritage Science`, `Multi View Stereo (MVS)`, `Multi View Geometry (MVG)`, `CT Scan`, `Film Photography`. `Film Rolls`, `X-Ray Fluorecense (XRF)`
 
 ## Education
 - `2021-Present` PhD in Computer Science @ University of Kentucky, USA
@@ -19,14 +19,17 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 ## Experience
 ### Work experience
 - `2017-2021` AWS Developer @ Cognizant Technology Solutions, India
-- `2022-present` Graduate Research Assistant @ University of Kentucky, USA
+- `2022-2023` Graduate Research Assistant @ University of Kentucky, USA
+- `2023-present` Graduate Research Assistant @ University of Kentucky, USA
 
 ### Teaching experience
-- `2021-2022` Teaching Assistant for Undergraduate Computer Graphics @ University of Kentucky, USA
+- `2021-2022` Graduate Teaching Assistant for Computer Graphics (CS335) @ University of Kentucky, USA
+- `2023 Spring` Primary Instructor for Computer Graphics (CS335) @ University of Kentucky, USA
 
 ### Journal Reviews
 - Pervasive and Mobile Computing
 - ACM Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)
+- SN Computer Science
 
 ## Publications
 - [Google Scholar](https://scholar.google.co.in/citations?user=oGPRM7gAAAAJ&hl=en)
@@ -47,6 +50,11 @@ University of Pisa, Italy (Did not avail)
 - ankan dot bhattacharyya @uky.edu
 - [LinkedIn](https://www.linkedin.com/in/ankancs94/)
 
+## :rocket: Updates
+-  `July, 2024` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` appeared online
+-  `May, 2024` Passed Qualifying Examination. Became a PhD Candidate
+-  `September, 2023` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` was accepted to `International Conference on Frontiers in Computing and Systems` (COMSYS 2023)
+- `April, 2024` Reached 100 Citations on Google Scholar
 
 <!--## Test
 Display Table in README.md file in Git
