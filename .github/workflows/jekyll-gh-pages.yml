@@ -34,13 +34,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: jekyll-site
-          path: ./_site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
 
   # Deployment job
   deploy:
