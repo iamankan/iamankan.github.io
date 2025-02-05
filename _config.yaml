@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Ankan অঙ্কন
 description: PhD Candidate in Computer Science @ University of Kentucky
 logo: /assets/AB_DP.jpg
+include: ["assets/style.css"]
