@@ -55,6 +55,7 @@ University of Pisa, Italy (Did not avail)
 - [LinkedIn](https://www.linkedin.com/in/ankancs94/)
 
 ## 🚀 Updates
+- `April 17, 2025` Presented `System for the 2D-3D detection of bourbon barrel features-of-interest` at `Practice in AI` held by [`University of Kentucky AI/ML Hub Seminar Series`](https://www.ccs.uky.edu/ccs-seminar-series-on-ai-in-practice/). Video available on [YouTube](https://www.youtube.com/watch?v=aj8yMdoHdeQ)
 - `July, 2024` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` appeared [online](https://link.springer.com/chapter/10.1007/978-981-97-2614-1_47)
 - `May, 2024` Passed Qualifying Examination. Became a PhD Candidate
 - `April, 2024` Reached 100 Citations on Google Scholar
