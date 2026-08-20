@@ -1,10 +1,11 @@
 ### About
 
-I am a PhD candidate in Computer Science at the University of Kentucky. I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics, and Machine Learning. I am interested in the application of these techniques to Digital Humanities. I am excited to discover new contents from damaged antique artifacts, which no one has ever been able to see. Specifically, I work on non invasive digital restoration of old damaged photographic films, under the supervision of [Dr. Brent Seales](https://educelab.engr.uky.edu/w-brent-seales) and [Dr. Seth Parker]([https://educelab.engr.uky.edu/w-brent-seales](https://csparker247.github.io/)), in [EduceLab](https://educelab.engr.uky.edu/directory). I have more than 2 years experience in CT Scanning and 3D prinitng mounts for artifacts like scrolls, books, and films on SKYSCAN 1273. I have about a decade of experience in applying deep learning based Computer Vision models to data like online handwriting, Infrared images and X-Ray based CT Scans. I am interested in exploring Ray Tracing based techniques to Computer Vision problems. I am passionate about the intersection between Computer Vision and Computer Graphics. I am also experienced in using Camera systems like FLIR cameras and building software using Spinnaeker library provided by Teledyne. I am interested in understanding how a data is collected and what the data means before applying any machine learning/ deep learning models. I am more keen towards understanding the data at a material level and figure out how an EM wave like X-Ray or visible light interacted with the materials to make that data/image. This helps me building a deep learning model to understand the property of the material rather than applying out-of-the-box model as a black box.
+I graduated with a PhD in Computer Science at the University of Kentucky, in August 2026. I enjoy doing research in Computer Science, specifically in the field of Computer Vision, Computer Graphics, and Machine Learning. I am interested in the application of these techniques to Digital Humanities. I am excited to discover new contents from damaged antique artifacts, which no one has ever been able to see. Specifically, I work on non invasive digital restoration of old damaged photographic films, under the supervision of [Dr. Brent Seales](https://educelab.engr.uky.edu/w-brent-seales) and [Dr. Seth Parker]([https://educelab.engr.uky.edu/w-brent-seales](https://csparker247.github.io/)), in [EduceLab](https://educelab.engr.uky.edu/directory). I have more than 2 years experience in CT Scanning and 3D prinitng mounts for artifacts like scrolls, books, and films on SKYSCAN 1273. I have about a decade of experience in applying deep learning based Computer Vision models to data like online handwriting, Infrared images and X-Ray based CT Scans. I am interested in exploring Ray Tracing based techniques to Computer Vision problems. I am passionate about the intersection between Computer Vision and Computer Graphics. I am also experienced in using Camera systems like FLIR cameras and building software using Spinnaeker library provided by Teledyne. I am interested in understanding how a data is collected and what the data means before applying any machine learning/ deep learning models. I am more keen towards understanding the data at a material level and figure out how an EM wave like X-Ray or visible light interacted with the materials to make that data/image. This helps me building a deep learning model to understand the property of the material rather than applying out-of-the-box model as a black box.
 
 >"Life is an overdetermined system of equations. You cannot satisfy everyone."
 >-Ankan
 
+<font size="+2" color="red"><strong>Currently looking for PostDoc positions!</strong></font>
 
 Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 
@@ -13,12 +14,12 @@ Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
 `Computer Graphics`, `Computer Vision`, `View interpolation`, `Neural Radiance Field (NeRF)`, `Photogrammetry`, `Structure From Motion (SFM)`, `Homography`, `Image Registration`, `Image Recognition`, `Deep Learning`, `Heritage Science`, `Multi View Stereo (MVS)`, `Multi View Geometry (MVG)`, `CT Scan`, `Film Photography`. `Film Rolls`, `X-Ray Fluorecense (XRF)`, `Autodesk Fusion 360`, `3D Printing`
 
 ## Education
-- `2021-Present` PhD in Computer Science @ University of Kentucky, USA
+- `2021-2026` PhD in Computer Science @ University of Kentucky, USA
 - `2013-2017` B.Tech. in Computer Science and Engineering @ West Bengal University of Technology, India
 
 ## Experience
 ### Work experience
-- `2023-present` Graduate Research Assistant @ University of Kentucky, USA
+- `2023-2026` Graduate Research Assistant @ University of Kentucky, USA
 - `2022-2023` Graduate Research Assistant @ University of Kentucky, USA
 - `2017-2021` AWS Developer @ Cognizant Technology Solutions, India
 
@@ -55,6 +56,8 @@ University of Pisa, Italy (Did not avail)
 - [LinkedIn](https://www.linkedin.com/in/ankancs94/)
 
 ## 🚀 Updates
+- `August 13, 2026` PhD Thesis `Non-invasive digital restoration of damaged photographic film negatives` available on [UKnowledge](https://uknowledge.uky.edu/gradschool_diss/866/)
+- `June 29, 2026` Defended PhD Thesis `Non-invasive digital restoration of damaged photographic film negatives`
 - `April 17, 2025` Presented `System for the 2D-3D detection of bourbon barrel features-of-interest` at `Practice in AI` held by [`University of Kentucky AI/ML Hub Seminar Series`](https://www.ccs.uky.edu/ccs-seminar-series-on-ai-in-practice/). Video available on [YouTube](https://www.youtube.com/watch?v=aj8yMdoHdeQ)
 - `July, 2024` Paper titled `Multispectral Imaging of Damaged Sacramental Journal Pages: A Preliminary Study` appeared [online](https://link.springer.com/chapter/10.1007/978-981-97-2614-1_47)
 - `May, 2024` Passed Qualifying Examination. Became a PhD Candidate
