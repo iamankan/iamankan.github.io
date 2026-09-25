@@ -7,7 +7,9 @@ I graduated with a PhD in Computer Science at the University of Kentucky, in Aug
 
 <font size="+2" color="red"><strong>Currently looking for PostDoc positions!</strong></font>
 
-Download my Curriculum Vitae ([PDF](abh-curriculum-vitae.pdf))
+- Curriculum Vitae ([PDF](ankan_cv.pdf))
+- Official Transcript ([PDF](ankan_official_transcript.pdf))
+- PhD Diploma ([PDF](ankan_phd_certificate.pdf))
 
 ### Interests
 
